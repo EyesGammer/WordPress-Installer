@@ -1,0 +1,22 @@
+{
+	"base_url": "https://new.wordpress.com/",
+	"wordpress_url": "https://fr.wordpress.org/latest-fr_FR.zip",
+	"wp-config": {
+		"DB_NAME": "used_db_name",
+		"DB_USER": "db_user",
+		"DB_PASSWORD": "db_pass",
+		"DB_HOST": "db_host.com"
+	},
+	"install": {
+		"weblog_title": "Blog Title here",
+		"user_name": "username",
+		"admin_password": "password",
+		"admin_email": "user.name@domain.fr",
+		"public": false
+	},
+	"plugins": [
+		"https://plugins.io/WordPressPlugins/really-simple-ssl.5.3.2.zip",
+		"https://plugins.io/WordPressPlugins/wp-all-import-pro_4.7.5.zip",
+		"https://plugins.io/WordPressPlugins/tinymce-advanced.5.6.0.zip"
+	]
+}
